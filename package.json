@@ -1,0 +1,25 @@
+{
+  "name": "bingeeatingapp",
+  "version": "1.0.0",
+  "description": "bingeeating app for Advanced Mobile Application course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawanaraballi/BingeEating.git"
+  },
+  "keywords": [
+    "binge",
+    "eating",
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Pawan Araballi, Kranthi, Indra, Sumeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawanaraballi/BingeEating/issues"
+  },
+  "homepage": "https://github.com/pawanaraballi/BingeEating#readme"
+}
